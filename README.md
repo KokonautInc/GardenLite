@@ -2,7 +2,7 @@
 
 Kokonaut Garden Lite was our first Product and used Open Source Technologies to help Growers Monitor their Crop.
 
-We are currently on the Second Generation Sensor, Kokonaut Mizu, allowing us to Open Source the Garden Lite. 
+We are currently on the Second Generation Sensor, Kokonaut Mizu, so now the Garden Lite has been Open Sourced 
 
 # Included are
 
