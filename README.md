@@ -17,7 +17,7 @@ With this, anyone can create and learn how to develop their own Internet Connect
 
 # Assembly Instructions
 
-- You will need to order your own PCB (eg. JLCPCB, OSHPark, or SeeedStudio). You may order the bare boards or have them assembled (the assembly file is included)
+- You will need to order your own PCB (eg. JLCPCB, OSHPark, or SeeedStudio). You may order the bare boards or have them assembled (refer to the assembly file)
 - You will also need to order a NodeMCU and GY-BME280 Breakout (eg. Amazon, AliExpress, Bangood)
 - (TODO) Arduino Upload Instructions
 
