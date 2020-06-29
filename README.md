@@ -2,7 +2,7 @@
 
 Kokonaut Garden Lite is a WiFi Environmental Sensor for Indoor Gardens. It uses readily available components and Open Source Software.
 
-The Garden Lite was our first Sensor and was released from 2017-2019. It is now Open Sourced for DIY Makers and for Students looking to build their own IoT Device.
+The Garden Lite was our first Sensor and was released from 2017-2019. It is now available as Open Source for DIY Makers and for Students looking to build their own IoT Device.
 
 Our Second Generation Sensor, Kokonaut Mizu, is also available at www.kokonaut.com
 
