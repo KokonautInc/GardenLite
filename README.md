@@ -11,7 +11,7 @@ Our Second Generation Sensor, Kokonaut Mizu, is also available at www.kokonaut.c
 - The Enclosure STLs which you can 3D Print to enclose the PCB
 - The PCB Gerbers. We used JLCPCB.com to produce the PCB's
 - The BOM file. You will need to solder the parts yourself
-- The Arduino Firmware is a work in progress and more updates will follow.
+- (TODO) The Arduino Firmware
 
 With this, anyone can create and learn how to develop their own Internet Connected Environmental Sensor in their very own compact enclosure.
 
