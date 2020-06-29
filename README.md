@@ -15,6 +15,12 @@ Our Second Generation Sensor, Kokonaut Mizu, is also available at www.kokonaut.c
 
 With this, anyone can create and learn how to develop their own Internet Connected Environmental Sensor in their very own compact enclosure.
 
+# Assembly Instructions
+
+- You will need to order your own PCB (eg. JLCPCB, OSHPark, or SeeedStudio). You may order the bare boards or have them assembled (the assembly file is included)
+- You will also need to order a NodeMCU and GY-BME280 Breakout (eg. Amazon, AliExpress, Bangood)
+- (TODO) Arduino Upload Instructions
+
 <img src="https://scontent.fyzd1-3.fna.fbcdn.net/v/t1.0-9/40223499_692554941103694_2889345484952961024_o.jpg?_nc_cat=101&_nc_sid=6e5ad9&_nc_ohc=BRpnVn72rbEAX-4uwJn&_nc_ht=scontent.fyzd1-3.fna&oh=c11c10089c1239ae847cfee91ce2ff8f&oe=5F1E323A" width="640">
 <em>Nylon SLS by 3DPrintUK</em>
 
